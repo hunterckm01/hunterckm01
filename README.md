@@ -14,14 +14,17 @@
 
 ### 🚀 Tech Stack
 
-🔹 HTML5  
-🔹 CSS3  
-🔹 JavaScript  
-🔹 React.js  
-🔹 Node.js  
-🔹 Express.js  
-🔹 MongoDB  
-🔹 Tailwind CSS
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="JavaScript"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/officel/48/react.png" title="React" alt="React"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" alt="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/express-js.png" title="Express.js" alt="Express.js"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" alt="MongoDB"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS" alt="TailwindCSS"/></a>
+</p>
+
 
 
 ---
