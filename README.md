@@ -3,12 +3,12 @@
 
 ---
 
-- 🌱 Currently sharpening my skills in **MERN Stack** & diving into **AI/ML**  
-- 🔭 Working on **Pic Picker** – a photo-sharing platform for photographers  
+- 🌱 Currently sharpening my skills in **MERN Stack** & diving into **DSA**  
+- 🔭 Built **Pic Picker** – a photo-sharing platform for photographers  
 - 💼 Built **Shopease**, a sleek and responsive e-commerce platform  
 - 💬 Ask me about `React`, `Node.js`, `MongoDB`, `TailwindCSS`, `Express.js`  
-- 📫 Reach me at: **chandan.webdev@gmail.com**  
-- 🌐 Portfolio (coming soon...)
+- 📫 Reach me at: **chandankmahto7410@gmail.com**  
+- 🌐 New Portfolio (coming soon...)
 
 ---
 
@@ -30,22 +30,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hunterckm01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunterckm01&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
 ### ✨ Featured Projects
 
-- 🔗 [Pic Picker](https://github.com/your-username/pic-picker)  
-- 🔗 [Shopease](https://github.com/your-username/shopease)
+- 🔗 [Pic Picker]([https://github.com/your-username/pic-picker](https://github.com/hunterckm01/PickPicker))  
+- 🔗 [Shopease]([https://github.com/your-username/shopease](https://github.com/hunterckm01/Shopease))
 
 ---
 
 ### 🧠 Quote I live by
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> Read, Learn, Test, Achieve, Repeat
 
 ---
 
